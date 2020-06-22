@@ -1,0 +1,9 @@
+<!--pages/home/home.wxml-->
+<!-- 轮播图 -->
+<w-swiper banners="{{banners}}"></w-swiper>
+
+<!-- 推荐数据显示 -->
+<w-recommend recommends="{{recommends}}"></w-recommend>
+
+<!-- 本周流行 -->
+<!-- 没有图片数据，不作显示了 -->
